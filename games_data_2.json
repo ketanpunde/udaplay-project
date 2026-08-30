@@ -1,0 +1,92 @@
+[
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "release_date": "2015-05-19",
+    "platforms": ["PlayStation 4", "Xbox One", "PC", "Nintendo Switch", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "Action RPG",
+    "description": "The Witcher 3 is an open-world RPG following Geralt of Rivia, a monster hunter for hire. Features over 100 hours of gameplay, morally complex choices, and two award-winning expansions."
+  },
+  {
+    "title": "Minecraft",
+    "developer": "Mojang Studios",
+    "publisher": "Mojang Studios",
+    "release_date": "2011-11-18",
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android"],
+    "genre": "Sandbox",
+    "description": "Minecraft is a sandbox game where players explore procedurally generated worlds, gather resources, craft tools, and build structures. It features survival and creative modes."
+  },
+  {
+    "title": "Call of Duty: Modern Warfare II",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "release_date": "2022-10-28",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC"],
+    "genre": "First-Person Shooter",
+    "description": "Modern Warfare II features an immersive single-player campaign, classic multiplayer modes, and the return of Special Ops. Built on an all-new engine with improved graphics and gameplay."
+  },
+  {
+    "title": "Fortnite",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
+    "release_date": "2017-07-25",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC", "Nintendo Switch", "iOS", "Android"],
+    "genre": "Battle Royale",
+    "description": "Fortnite is a free-to-play battle royale game where 100 players fight to be the last one standing. Features building mechanics, seasonal content updates, and crossover events."
+  },
+  {
+    "title": "Spider-Man: Miles Morales",
+    "developer": "Insomniac Games",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2020-11-12",
+    "platforms": ["PlayStation 4", "PlayStation 5", "PC"],
+    "genre": "Action-Adventure",
+    "description": "Follow Miles Morales as he masters his new powers as the new Spider-Man while protecting Brooklyn from a war between a corrupt energy corporation and the Tinkerer's army."
+  },
+  {
+    "title": "Starfield",
+    "developer": "Bethesda Game Studios",
+    "publisher": "Bethesda Softworks",
+    "release_date": "2023-09-06",
+    "platforms": ["Xbox Series X/S", "PC"],
+    "genre": "Action RPG",
+    "description": "Starfield is Bethesda's first new universe in over 25 years. Set in the year 2330, players explore the galaxy as a member of Constellation, uncovering the mysteries of the universe."
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2017-10-27",
+    "platforms": ["Nintendo Switch"],
+    "genre": "Platform",
+    "description": "Join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use Cappy to capture and control enemies, navigate unique kingdoms, and rescue Princess Peach from Bowser."
+  },
+  {
+    "title": "Apex Legends",
+    "developer": "Respawn Entertainment",
+    "publisher": "Electronic Arts",
+    "release_date": "2019-02-04",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC", "Nintendo Switch"],
+    "genre": "Battle Royale",
+    "description": "Apex Legends is a free-to-play battle royale game set in the Titanfall universe. Features unique Legends with special abilities, squad-based gameplay, and fast-paced combat."
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "developer": "Avalanche Software",
+    "publisher": "Warner Bros. Games",
+    "release_date": "2023-02-10",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC", "Nintendo Switch"],
+    "genre": "Action RPG",
+    "description": "An immersive open-world action RPG set in the 1800s wizarding world. Students attend Hogwarts, learn spells, brew potions, and uncover a hidden truth about the wizarding world."
+  },
+  {
+    "title": "Baldur's Gate 3",
+    "developer": "Larian Studios",
+    "publisher": "Larian Studios",
+    "release_date": "2023-08-03",
+    "platforms": ["PC", "PlayStation 5", "Xbox Series X/S"],
+    "genre": "RPG",
+    "description": "Gather your party and return to the Forgotten Realms in Baldur's Gate 3. A story-rich RPG based on D&D 5th Edition rules, featuring deep character customization and co-op multiplayer."
+  }
+]

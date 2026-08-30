@@ -1,0 +1,92 @@
+[
+  {
+    "title": "FIFA 21",
+    "developer": "EA Vancouver",
+    "publisher": "Electronic Arts",
+    "release_date": "2020-10-09",
+    "platforms": ["PlayStation 4", "Xbox One", "PC", "Nintendo Switch"],
+    "genre": "Sports",
+    "description": "FIFA 21 is a football simulation game featuring updated rosters, improved gameplay mechanics, and new career mode features. It includes Ultimate Team, Volta Football, and Pro Clubs modes."
+  },
+  {
+    "title": "God of War Ragnarok",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2022-11-09",
+    "platforms": ["PlayStation 4", "PlayStation 5"],
+    "genre": "Action-Adventure",
+    "description": "God of War Ragnarok continues the Norse saga of Kratos and Atreus as they prepare for the prophesied end of the world. Features expanded combat, new realms, and a deeper story."
+  },
+  {
+    "title": "Pokémon Red",
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "release_date": "1996-02-27",
+    "platforms": ["Game Boy"],
+    "genre": "RPG",
+    "description": "Pokémon Red is one of the original Pokémon games where players explore the Kanto region, capture Pokémon, defeat eight gym leaders, and challenge the Elite Four."
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2017-03-03",
+    "platforms": ["Nintendo Switch", "Wii U"],
+    "genre": "Action-Adventure",
+    "description": "An open-world adventure where Link explores Hyrule, climbs mountains, glides through the air, and battles Calamity Ganon. Features physics-based gameplay and a massive open world."
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "developer": "Rockstar Games",
+    "publisher": "Rockstar Games",
+    "release_date": "2018-10-26",
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genre": "Action-Adventure",
+    "description": "An epic tale of life in America's unforgiving heartland. The game's vast and atmospheric world also provides the foundation for a brand new online multiplayer experience."
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "release_date": "2020-12-10",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC"],
+    "genre": "Action RPG",
+    "description": "An open-world action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. Players take the role of V, a mercenary outlaw going after a one-of-a-kind implant."
+  },
+  {
+    "title": "Halo Infinite",
+    "developer": "343 Industries",
+    "publisher": "Xbox Game Studios",
+    "release_date": "2021-12-08",
+    "platforms": ["Xbox One", "Xbox Series X/S", "PC"],
+    "genre": "First-Person Shooter",
+    "description": "Master Chief returns in Halo Infinite, featuring an open-world campaign on the Zeta Halo ring and a free-to-play multiplayer mode. The game introduces the grappleshot mechanic."
+  },
+  {
+    "title": "Elden Ring",
+    "developer": "FromSoftware",
+    "publisher": "Bandai Namco Entertainment",
+    "release_date": "2022-02-25",
+    "platforms": ["PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "PC"],
+    "genre": "Action RPG",
+    "description": "Elden Ring is an action RPG set in the Lands Between, created by FromSoftware and written by George R.R. Martin. Features open-world exploration, challenging combat, and deep lore."
+  },
+  {
+    "title": "Animal Crossing: New Horizons",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2020-03-20",
+    "platforms": ["Nintendo Switch"],
+    "genre": "Simulation",
+    "description": "Escape to a deserted island and create your own paradise in Animal Crossing: New Horizons. Collect resources, craft items, and build a thriving community of adorable animal villagers."
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "developer": "Rockstar North",
+    "publisher": "Rockstar Games",
+    "release_date": "2013-09-17",
+    "platforms": ["PlayStation 3", "PlayStation 4", "PlayStation 5", "Xbox 360", "Xbox One", "PC"],
+    "genre": "Action-Adventure",
+    "description": "Set in the fictional state of San Andreas, GTA V follows three criminals and their efforts to commit heists while under pressure from a government agency. Features an expansive open world and GTA Online."
+  }
+]
